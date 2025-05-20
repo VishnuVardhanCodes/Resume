@@ -1,0 +1,50 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 2rem;
+  background: #fff;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  font-size: 2em;
+  margin-bottom: 0.3em;
+}
+
+header p {
+  margin: 0.2em 0;
+}
+
+.links a {
+  color: #1b5e82;
+  text-decoration: none;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+section h2 {
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 1em;
+}
